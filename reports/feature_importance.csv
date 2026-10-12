@@ -1,0 +1,12 @@
+,rf_importance,perm_importance_test,rf_rank,corr_with_quality,abs_corr_rank
+alcohol,0.15042,0.07598,1,0.486,1
+sulphates,0.11572,0.03676,2,0.2575,3
+total sulfur dioxide,0.1012,0.02108,3,-0.1822,6
+volatile acidity,0.099,0.01863,4,-0.4093,2
+density,0.08897,0.00147,5,-0.1852,5
+chlorides,0.08114,0.00392,6,-0.1222,7
+citric acid,0.07655,0.00784,7,0.2416,4
+pH,0.07593,0.00735,8,-0.0576,10
+fixed acidity,0.07378,0.01324,9,0.1158,8
+residual sugar,0.07098,-0.00049,10,0.0227,11
+free sulfur dioxide,0.0663,0.0098,11,-0.0711,9

@@ -1,0 +1,4 @@
+model,test_acc_unscaled,test_acc_scaled,f1_weighted_unscaled,f1_weighted_scaled
+Logistic Regression,0.5637,0.598,0.5319,0.5772
+SVM,0.5245,0.6029,0.4713,0.5811
+KNN,0.4706,0.5588,0.4519,0.5498

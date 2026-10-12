@@ -1,0 +1,11 @@
+parameter,value,cv_accuracy
+model__C,1,0.5933
+model__C,0.1,0.5835
+model__C,10,0.5675
+model__C,100,0.4988
+model__gamma,scale,0.5933
+model__gamma,0.01,0.5884
+model__gamma,0.1,0.5896
+model__gamma,1,0.5331
+model__class_weight,None,0.5933
+model__class_weight,balanced,0.4951
